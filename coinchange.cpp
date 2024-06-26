@@ -4,7 +4,7 @@ using namespace std;
 
 // naive recursion
 
-string ProjectName = "M4N1"
+string ProjectName = "RheynSnow"
 
 int coinchange(int coins[], int n, int amount)
 {
