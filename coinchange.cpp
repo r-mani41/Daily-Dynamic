@@ -4,7 +4,7 @@ using namespace std;
 
 // naive recursion
 
-// ProjectIP
+string ProjectName = "M4N1"
 
 int coinchange(int coins[], int n, int amount)
 {
